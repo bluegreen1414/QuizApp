@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+
+    <!-- Home Screen -->
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="previous">Previous</string>
+    <string name="cancel">Cancel</string>
+    <string name="question_count" translatable="false">\u00A0of %d</string>
+
+    <!-- Single choose -->
+    <string name="single_choose">Which programming language do you use?</string>
+    <string name="select_one">Select one.</string>
+
+    <!-- multi choose -->
+    <string name="multi_choose">In my past project I used …</string>
+    <string name="select_all">Select all that apply.</string>
+
+    <!-- field question -->
+    <string name="field_question">What do you think about Jetpack Compose?</string>
+    <string name="write_answer">Write answer</string>
+    <string name="text">…</string>
+
+    <!-- Boolean question -->
+    <string name="boolean_question">Have you ever written a program for Android TV?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- result -->
+    <string name="awesome">Awesome</string>
+
+    <!-- content descriptions -->
+    <string name="result_content_description">Result</string>
+</resources>
